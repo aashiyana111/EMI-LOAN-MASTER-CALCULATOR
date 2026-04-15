@@ -63,10 +63,14 @@ emi_data.csv – Processed dataset storage
 loan_summary.txt – Output reporting
 
 👨‍💻 Team Contributions
-K Bhargav – Data Visualization & Graph Module
-K Vikas – Application Flow & Integration (main.py)
-K Leela Surya Narayana – Data Management & Reporting
-M Aashiyana Yadav – Core Financial Logic & Modules
+
+K. Bhargav – Data Visualization & Graph Module
+
+K. Vikas – Application Flow & Integration (main.py)
+
+K. Leela Surya Narayana – Data Management & Reporting
+
+M. Aashiyana Yadav – Core Financial Logic & Modules
 
 🎯 Key Objectives
 Deliver a reliable and efficient financial computation system
